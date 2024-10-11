@@ -36,20 +36,5 @@ a = float(a) # int(a)
 print(a, type(a))
 
 
-# In[]
-
-
-
-x = 20 
-g = 150
-
-print( type(g) )
-
-while abs( g - x/g ) > 0.00001 : 
-    print(g)
-    g = ( g + x/g )/2
-    print( type(g) )
-
-print( g )  
 
 

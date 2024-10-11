@@ -26,6 +26,7 @@ Il corso è composto da due parti che si sovrappongono sia come contenuti che te
 * Lunedì, martedì e venerdì dalle 9:15 alle 10:45
 
 -------------------------------
+
 ## Diario delle lezioni
 
 ### Lezione 1 del 2024/10/07
@@ -40,4 +41,32 @@ Dimostrazione di correttezza dell'algoritmo per la radice quadrata. Introduzione
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%202%20del%208_10_2024-20241008_091545-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
------------------
+### Lezione 3 del 2024/10/11
+
+Cenni sulla *Macchina di Von Neumann*. Linguaggi ad alto livello compilati ed interpretati. L'interprete Python e l'utilizzo della console.
+Assegnamenti multipli. Il tipo `bool` e gli operatori logici `and`, `or` e `not`. Gli operatori relazionali `<, <=, ==, !=, >=, >`. Gli operatori aritmetici `%` e `**`. L'operatore `+=`. Il tipo di dato stringa (`str`): confronto (ordinamento lessicografico); concatenazione; ripetizione; la funzione `len()`; indicizzazione.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%203%20del%2011_10_2024-20241011_091632-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+#### Esercizi
+
+1. Si scriva un programma che conti e stampi quante volte compare il carattere ` ` (spazio) all'interno di una stringa legata alla variabile `a`. Il programma deve far uso soltanto dei costrutti Python fin qua studiati. *Suggerimento*: potrebbe essere utile un ciclo `while` che conta il numero di spazi consecutivi a partire da una posizione e che sia 'annidato' nel ciclo principale che scorre i caratteri della stringa.
+
+2. Modificare il codice precedente facendo in modo che il programma conti il numero di vocali minuscole all'interno della stringa. Risolvere il problema usando l'operatore `in` di seguito descritto.
+   
+    Siano `x` e `y` due stringhe, `x in y` vale `True` se e solo se la stringa `x` è sottostringa di `y`. Ad esempio
+   
+    ```python
+        'yt' in 'Python'
+    ```
+   
+    vale `True` mentre
+    
+    ```python
+        'a' in 'Python'`
+        'yht' in 'Python'
+    ```
+    
+    valgono `False`
+    
+    
