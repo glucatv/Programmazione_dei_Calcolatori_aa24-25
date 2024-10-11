@@ -63,7 +63,7 @@ Assegnamenti multipli. Il tipo `bool` e gli operatori logici `and`, `or` e `not`
     vale `True` mentre
     
     ```python
-        'a' in 'Python'`
+        'a' in 'Python'
         'yht' in 'Python'
     ```
     
