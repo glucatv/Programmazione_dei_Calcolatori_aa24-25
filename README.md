@@ -70,3 +70,8 @@ Assegnamenti multipli. Il tipo `bool` e gli operatori logici `and`, `or` e `not`
     valgono `False`
     
     
+### Lezione 4 del 2024/10/14
+
+Soluzione degli esercizi. L'operatore `in`. Le strutture di controllo `if...elif...else` e `for`. Valutazione del numero di operazioni eseguite da due diverse soluzioni dello stesso problema: operazioni nascoste da operazioni su dati strutturati. Le funzioni incorporate `ord()` e `chr()`.
+
+[Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%204%20del%202024-10-14-20241014_091327-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
