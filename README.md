@@ -29,6 +29,8 @@ Il corso è composto da due parti che si sovrappongono sia come contenuti che te
 
 ## Diario delle lezioni
 
+**IMPORTANTE** Per accedere ai video delle lezioni bisogna iscriversi al canale Teams 👆
+
 ### Lezione 1 del 2024/10/07
 
 Introduzione al corso. Il *metodo algoritmo*. Esempi: l'enigma di Guarini e il calcolo della radice quadrata.
@@ -56,26 +58,24 @@ Assegnamenti multipli. Il tipo `bool` e gli operatori logici `and`, `or` e `not`
    
     Siano `x` e `y` due stringhe, `x in y` vale `True` se e solo se la stringa `x` è sottostringa di `y`. Ad esempio
    
-    ```python
-        'yt' in 'Python'
-    ```
+   ```python
+       'yt' in 'Python'
+   ```
    
     vale `True` mentre
-    
-    ```python
-        'a' in 'Python'
-        'yht' in 'Python'
-    ```
-    
+   
+   ```python
+       'a' in 'Python'
+       'yht' in 'Python'
+   ```
+   
     valgono `False`
-    
-    
+
 ### Lezione 4 del 2024/10/14
 
 Soluzione degli esercizi. L'operatore `in`. Le strutture di controllo `if...elif...else` e `for`. Valutazione del numero di operazioni eseguite da due diverse soluzioni dello stesso problema: operazioni nascoste da operazioni su dati strutturati. Le funzioni incorporate `ord()` e `chr()`.
- 
-* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%204%20del%202024-10-14-20241014_091327-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%204%20del%202024-10-14-20241014_091327-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
 ### Lezione 5 del 2024/10/15
 
