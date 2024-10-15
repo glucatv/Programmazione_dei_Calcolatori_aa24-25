@@ -75,3 +75,10 @@ Assegnamenti multipli. Il tipo `bool` e gli operatori logici `and`, `or` e `not`
 Soluzione degli esercizi. L'operatore `in`. Le strutture di controllo `if...elif...else` e `for`. Valutazione del numero di operazioni eseguite da due diverse soluzioni dello stesso problema: operazioni nascoste da operazioni su dati strutturati. Le funzioni incorporate `ord()` e `chr()`.
  
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%204%20del%202024-10-14-20241014_091327-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+
+### Lezione 5 del 2024/10/15
+
+Conversione maiuscole/minuscole con le funzioni `ord()` e `chr()`. Definizione di **funzioni**; l'istruzione `return`; parametri delle funzioni; passaggio dei parametri per posizione e per nome; parametri opzionali e valori di default; variabili locali. Ancora sulle stringhe: indicizzazione negativa e *slicing*; come invertire una stringa. Considerazioni sull'efficienza delle operazioni precedenti nella soluzione del problema della verifica della palindromia.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%205%20del%202024-10-15-20241015_091942-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
