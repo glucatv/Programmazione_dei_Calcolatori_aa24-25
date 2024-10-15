@@ -111,12 +111,12 @@ print(a[1:7])  # slicing
 print(a[:7])
 print(a[1:])
 print(a[:])
-print(a[1:7:2])
+print(a[1:7:2]) # slicing con step
 print(a[::-1])
 
 # In[]
 
-def palindromo_fessa( a ):
+def palindromo_ingenua( a ):
     return a == a[::-1]
 
 
