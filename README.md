@@ -82,3 +82,13 @@ Soluzione degli esercizi. L'operatore `in`. Le strutture di controllo `if...elif
 Conversione maiuscole/minuscole con le funzioni `ord()` e `chr()`. Definizione di **funzioni**; l'istruzione `return`; parametri delle funzioni; passaggio dei parametri per posizione e per nome; parametri opzionali e valori di default; variabili locali. Ancora sulle stringhe: indicizzazione negativa e *slicing*; come invertire una stringa. Considerazioni sull'efficienza delle operazioni precedenti nella soluzione del problema della verifica della palindromia.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%205%20del%202024-10-15-20241015_091942-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+
+
+### Lezione 6 del 2024/10/18
+
+Costo computazionale: il tempo misurato contando il numero di operazioni elementari eseguite da un algoritmo; il caso peggiore; l'ordine di grandezza della funzione costo.
+
+
+
+[Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%206%20del%202024-10-18-20241018_092142-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
