@@ -83,12 +83,8 @@ Conversione maiuscole/minuscole con le funzioni `ord()` e `chr()`. Definizione d
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%205%20del%202024-10-15-20241015_091942-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
-
-
 ### Lezione 6 del 2024/10/18
 
-Costo computazionale: il tempo misurato contando il numero di operazioni elementari eseguite da un algoritmo; il caso peggiore; l'ordine di grandezza della funzione costo.
-
-
+Funzioni: la funzione `help()` e le *docstring*. Costo computazionale: il tempo misurato contando il numero di operazioni elementari eseguite da un algoritmo; il caso peggiore; l'ordine di grandezza della funzione costo.
 
 [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%206%20del%202024-10-18-20241018_092142-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
