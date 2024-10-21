@@ -88,3 +88,10 @@ Conversione maiuscole/minuscole con le funzioni `ord()` e `chr()`. Definizione d
 Funzioni: la funzione `help()` e le *docstring*. Costo computazionale: il tempo misurato contando il numero di operazioni elementari eseguite da un algoritmo; il caso peggiore; l'ordine di grandezza della funzione costo.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%206%20del%202024-10-18-20241018_092142-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+
+### Lezione 7 del 2024-10-21
+
+Complessità temporale, notazione *O*-grande e *Theta*-grande. Immutabilità delle stringhe. La truttura dati **tupla**: proprietà, operatori (indicizzazione, slicing, iterazione, concatenazione, ripetizione, impacchettamento e spacchettamento) e la funzione `len()`, immutabilità. La struttura dati **lista**: operatori (vedere tuple), *mutabilità*, le funzioni `len()` e `del()`, ed il *metodo* `append()`. Complessità delle funzioni ed operatori sulle strutture introdotte.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%207%20del%202024-10-21-20241021_091607-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)  
