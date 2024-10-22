@@ -95,3 +95,10 @@ Funzioni: la funzione `help()` e le *docstring*. Costo computazionale: il tempo 
 Complessità temporale, notazione *O*-grande e *Theta*-grande. Immutabilità delle stringhe. La truttura dati **tupla**: proprietà, operatori (indicizzazione, slicing, iterazione, concatenazione, ripetizione, impacchettamento e spacchettamento) e la funzione `len()`, immutabilità. La struttura dati **lista**: operatori (vedere tuple), *mutabilità*, le funzioni `len()` e `del()`, ed il *metodo* `append()`. Complessità delle funzioni ed operatori sulle strutture introdotte.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%207%20del%202024-10-21-20241021_091607-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)  
+
+
+### Lezione 8 del 2024-10-22
+
+La funzione `range()`. Il metodo `join()` del tipo `str` e come usarlo per evitare concatenazioni ripetute. L'operatore di assegnazione tra liste e *aliasing*; copiare una lista (clonazione).
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%208%20del%202024-10-22-20241022_091641-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
