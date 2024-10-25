@@ -169,7 +169,9 @@ print( id(c) )
 #         if a[i] == v:
 #             del(a[i])
 #
-# Soluzione errata   
+# Soluzione errata, range(len(a)) viene valutata soltanto la prima
+# volta quindi la sequenza generata da range() dipenderà soltanto
+# dal valore iniziale di len(a)   
  
 def del_item(a, v):
     '''

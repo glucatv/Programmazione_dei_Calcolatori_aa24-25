@@ -99,6 +99,11 @@ Complessità temporale, notazione *O*-grande e *Theta*-grande. Immutabilità del
 
 ### Lezione 8 del 2024-10-22
 
-La funzione `range()`. Il metodo `join()` del tipo `str` e come usarlo per evitare concatenazioni ripetute. L'operatore di assegnazione tra liste e *aliasing*; copiare una lista (clonazione).
+La funzione `range()`. Il metodo `join()` del tipo `str` e come usarlo per evitare concatenazioni ripetute. L'operatore di assegnazione tra liste e *aliasing*; copiare una lista (clonazione). La funzione `id()`.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%208%20del%202024-10-22-20241022_091641-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
+### Lezione 9 del 2024-10-25
+
+Approfondimento sulle funzioni: definizione, parametri formali e attuali, variabili locali e visibilità, frame o ambiente di una funzione, la pila dei frame, specifiche (descrizione dell'input e dell'output). Liste come argomento di funzione (*aliasing*). Approfondimento: correttezza di una soluzione rispetto alla specifica del problema. Ottimizzazione della complessità temporale aumentando la richiesta di spazio di memoria. Complessità spaziale: stima della quantità di **memoria supplementare** utilizzata da una soluzione.
+
+[Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%209%20del%202024-10-25-20241025_091455-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
