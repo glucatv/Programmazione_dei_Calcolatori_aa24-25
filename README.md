@@ -113,4 +113,4 @@ Approfondimento sulle funzioni: definizione, parametri formali e attuali, variab
 
 Gli operatori di confronto tra sequenze (stringhe, tuple, liste). Le funzioni incorporate `min()` e `max()` ed l'utilizzo del parametro `key` per personalizzare il criterio di confronto fra gli elementi. Funzioni locali (definite all'interno di altre funzioni) e funzioni come parametro di funzione. La funzione `range()` per generare una sequenza di interi che partono da un valore determinato. Il problema di disegnare `n` punti su una retta: calcolo della complessità temporale e spaziale; dipendenza dall'output della complessità temporale.
 
-* [Video della lezione]()
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2010%20del%202024-10-28-20241028_091648-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
