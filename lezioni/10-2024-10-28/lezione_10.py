@@ -98,7 +98,7 @@ disegna_punti_su_retta(a)
 
 # Complessità temporale: sia m = rx-lx (dimensione dell'output)
 #
-# costo = O(n*m)
+# costo = O(n*m) almeno quadratico in n
 #
 # Complessità spaziale: O(1)
 

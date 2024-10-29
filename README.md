@@ -114,3 +114,9 @@ Approfondimento sulle funzioni: definizione, parametri formali e attuali, variab
 Gli operatori di confronto tra sequenze (stringhe, tuple, liste). Le funzioni incorporate `min()` e `max()` ed l'utilizzo del parametro `key` per personalizzare il criterio di confronto fra gli elementi. Funzioni locali (definite all'interno di altre funzioni) e funzioni come parametro di funzione. La funzione `range()` per generare una sequenza di interi che partono da un valore determinato. Il problema di disegnare `n` punti su una retta: calcolo della complessità temporale e spaziale; dipendenza dall'output della complessità temporale.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2010%20del%202024-10-28-20241028_091648-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 11 del 2024-10-29
+
+Il problema dell'ordinamento: l'algoritmo *bubble sort*; descrizione e complessità temporale; ottimizzazione dell'algoritmo. L'istruzione `break`. Adattare la funzione `bubble_sort()` per personalizzare il creterio di ordinamento attraverso una funzione di valutazione degli elementi della sequenza. Utilizzo dell'ordinamento per ottenere soluzioni più efficienti.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2011%20del%202024-10-29-20241029_091545-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
