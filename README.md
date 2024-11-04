@@ -120,3 +120,9 @@ Gli operatori di confronto tra sequenze (stringhe, tuple, liste). Le funzioni in
 Il problema dell'ordinamento: l'algoritmo *bubble sort*; descrizione e complessità temporale; ottimizzazione dell'algoritmo. L'istruzione `break`. Adattare la funzione `bubble_sort()` per personalizzare il creterio di ordinamento attraverso una funzione di valutazione degli elementi della sequenza. Utilizzo dell'ordinamento per ottenere soluzioni più efficienti.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2011%20del%202024-10-29-20241029_091545-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 12 del 2024-11-04
+
+L'algoritmo di *ricerca binaria* nella soluzione del problema della ricerca dell'intervallo contenente un punto: analisi, implementazione e complessità.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2012%20del%202024-11-04-20241104_091547-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
