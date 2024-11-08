@@ -132,3 +132,9 @@ L'algoritmo di *ricerca binaria* nella soluzione del problema della ricerca dell
 Il problema della clonazione profonda di liste e una soluzione *ricorsiva*. Calcolo della complessità di soluzioni ricorsive e valutazione della memoria supplementare necessaria per i frame delle chiamate ricorsive.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2013%20del%202024-11-05-20241105_091600-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 14 del 2024-11-08
+
+Complessità temporale e spaziale dell'algoritmo di clonazione profonda. Soluzione esercizi. L'algoritmo *merge-sort*: cenni preliminari.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2014%20del%202024-11-08-20241108_091656-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
