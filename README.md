@@ -138,3 +138,9 @@ Il problema della clonazione profonda di liste e una soluzione *ricorsiva*. Calc
 Complessità temporale e spaziale dell'algoritmo di clonazione profonda. Soluzione esercizi. L'algoritmo *merge-sort*: cenni preliminari.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2014%20del%202024-11-08-20241108_091656-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 15 del 2024-11-11
+
+L'algoritmo di ordinamento per fusione (merge sort): analisi, implementazione e complessità.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2015%20del%202024-11-11-20241111_091933-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
