@@ -144,3 +144,9 @@ Complessità temporale e spaziale dell'algoritmo di clonazione profonda. Soluzio
 L'algoritmo di ordinamento per fusione (merge sort): analisi, implementazione e complessità.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2015%20del%202024-11-11-20241111_091933-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 16 del 2024-11-12
+
+Personalizzazione del criterio di ordinamento con parametro `key`; ordinamento multicriterio tramite confronto tra tuple. Funzioni `lambda`. La funzione incorporata `sorted()` ed il metodo `sort()` delle liste.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2016%20del%202024-11-12-20241112_091755-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
