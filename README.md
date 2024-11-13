@@ -21,6 +21,8 @@ Il corso è composto da due parti che si sovrappongono sia come contenuti che te
 
 - [Canale MS-Teams](https://teams.microsoft.com/l/team/19%3aa6a29db18c834a8fb822d968ea008f10%40thread.tacv2/conversations?groupId=07158cb1-0fc1-4930-befd-80987312c5f0&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
 
+- [Video tutorial su come installare Python e Spyder su Windows](https://uniroma2-my.sharepoint.com/:v:/g/personal/gianluca_rossi_uniroma2_eu/EQwbP4aTYMxEnLrxRGZtMRYB-20LYLaXyQ19SwV6rrm6PQ?e=fxjSXS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Calendario delle lezioni
 
 * Lunedì, martedì e venerdì dalle 9:15 alle 10:45
