@@ -158,5 +158,11 @@ Personalizzazione del criterio di ordinamento con parametro `key`; ordinamento m
 
 La struttura dati **dizionario**: definizione astratta degli operatori; i dizionari in Python e complessità degli operatori. Il dizionario come struttura dati di appoggio che consente algoritmi più efficienti: esempi.
 
-* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2017%20del%202024-11-15-20241115_091619-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2017%20del%202024-11-15-20241115_091619-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 18 del 2024-11-18
+
+La funzione `zip()`. I medoti `keys()`, `values()`, `items()` e `det()` della struttura `dict`. Il problema dell'intersezione tra insiemi: approfondimenti sulla complessità.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2018%20del%202024-11-18-20241118_092252-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
 
