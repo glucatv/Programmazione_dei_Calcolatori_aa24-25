@@ -166,3 +166,8 @@ La funzione `zip()`. I medoti `keys()`, `values()`, `items()` e `det()` della st
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2018%20del%202024-11-18-20241118_092252-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
 
+### Lezione 19 del 2024-11-19
+
+Differenza tra linguaggi interpretati e compilati. Alcuni utili comandi della *shell* di Linux. Introduzione al linguaggio C: la compilazione; la funzione `main()`; dichiarazioni di variabili e assegnazione; blocchi; la funzione `printf()`; ciclo `while` e le istruuzioni `if...else..`; dichiarazioni di funzioni.
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2019%20del%202024-11-19-20241119_092215-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
