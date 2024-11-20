@@ -23,6 +23,8 @@ Il corso è composto da due parti che si sovrappongono sia come contenuti che te
 
 - [Video tutorial su come installare Python e Spyder su Windows](https://uniroma2-my.sharepoint.com/:v:/g/personal/gianluca_rossi_uniroma2_eu/EQwbP4aTYMxEnLrxRGZtMRYB-20LYLaXyQ19SwV6rrm6PQ?e=fxjSXS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+- [Video tutorial su come installare Linux Debian su Windows](https://uniroma2-my.sharepoint.com/:v:/g/personal/gianluca_rossi_uniroma2_eu/EdZy3iCANylLn9JaNoP5qrsBdFFMvB-I55rUgrAKxY5h8g?e=Q8LHAw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Calendario delle lezioni
 
 * Lunedì, martedì e venerdì dalle 9:15 alle 10:45
