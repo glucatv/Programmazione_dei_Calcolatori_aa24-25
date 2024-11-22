@@ -173,3 +173,32 @@ La funzione `zip()`. I medoti `keys()`, `values()`, `items()` e `get()` della st
 Differenza tra linguaggi interpretati e compilati. Alcuni utili comandi della *shell* di Linux. Introduzione al linguaggio C: la compilazione; la funzione `main()`; dichiarazioni di variabili e assegnazione; blocchi; la funzione `printf()`; ciclo `while` e le istruuzioni `if...else..`; dichiarazioni di funzioni.
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2019%20del%202024-11-19-20241119_092215-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 20 del 2024-11-22
+
+Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*casting*) di tipo implicito; valutare il tipo di una espressione; casting esplicito; operatori relazionali; il *prototipo* delle funzioni; la direttiva `include`; in tipo di dato `char` e la codifica *ASCII*.
+
+#### Esercizi
+
+1. Calcolale la complessità temporale nel caso medio della funzione Python `del()` applicata ad un elemento di una lista. Nel risolvere l'esercizio si tenga conto che la cancellazione di un elemento in posizione `i` della lista `a` dichiede `i*c` operazioni per una oppotuna costante `c`.
+
+2. Scrivere una funzione Python che soddisfi la seguente specifica:
+
+```python
+    def anagramma(a, b):
+        '''
+        Parametri: a, b stringhe
+        Return: True se e solo se a e b sono anagrammi
+        '''
+```
+
+3. Scrivere una funzione C avente il seguente prototipo:
+
+```C
+    float potenza(float x, int e);
+```
+
+che ritorna il valore $x^e$.
+
+
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2020%20del%202024-11-22-20241122_092435-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
