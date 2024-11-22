@@ -184,21 +184,21 @@ Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*
 
 2. Scrivere una funzione Python che soddisfi la seguente specifica:
 
-```python
-    def anagramma(a, b):
-        '''
-        Parametri: a, b stringhe
-        Return: True se e solo se a e b sono anagrammi
-        '''
-```
+    ```python
+        def anagramma(a, b):
+            '''
+            Parametri: a, b stringhe
+            Return: True se e solo se a e b sono anagrammi
+            '''
+    ```
 
 3. Scrivere una funzione C avente il seguente prototipo:
 
-```C
-    float potenza(float x, int e);
-```
+    ```C
+        float potenza(float x, int e);
+    ```
 
-che ritorna il valore $x^e$.
+    che ritorna il valore $x^e$.
 
 
 * [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2020%20del%202024-11-22-20241122_092435-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
