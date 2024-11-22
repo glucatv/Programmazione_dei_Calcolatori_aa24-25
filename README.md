@@ -178,6 +178,9 @@ Differenza tra linguaggi interpretati e compilati. Alcuni utili comandi della *s
 
 Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*casting*) di tipo implicito; valutare il tipo di una espressione; casting esplicito; operatori relazionali; il *prototipo* delle funzioni; la direttiva `include`; in tipo di dato `char` e la codifica *ASCII*.
 
+* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2020%20del%202024-11-22-20241122_092435-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
+
+
 #### Esercizi
 
 1. Calcolale la complessità temporale nel caso medio della funzione Python `del()` applicata ad un elemento di una lista. Nel risolvere l'esercizio si tenga conto che la cancellazione di un elemento in posizione `i` della lista `a` dichiede `i*c` operazioni per una oppotuna costante `c`.
@@ -201,4 +204,3 @@ Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*
     che ritorna il valore $x^e$.
 
 
-* [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2020%20del%202024-11-22-20241122_092435-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) 
