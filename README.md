@@ -183,7 +183,7 @@ Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*
 
 #### Esercizi
 
-1. Calcolale la complessità temporale nel caso medio della funzione Python `del()` applicata ad un elemento di una lista. Nel risolvere l'esercizio si tenga conto che la cancellazione di un elemento in posizione `i` della lista `a` dichiede `i*c` operazioni per una oppotuna costante `c`.
+1. Calcolale la complessità temporale nel caso medio della funzione Python `del()` applicata ad un elemento di una lista. Nel risolvere l'esercizio si tenga conto che la cancellazione di un elemento in posizione `i` della lista `a` dichiede `(n-i)*c` operazioni per una oppotuna costante `c` dove `n = len(a)`.
 
 2. Scrivere una funzione Python che soddisfi la seguente specifica:
 
