@@ -206,7 +206,7 @@ Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*
 
 ### Lezione 21 del 2024-11-25
 
-Soluzione degli esercizi. Gli array in C.
+Soluzione degli esercizi proposti. Gli array in C.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2021%20del%202024-11-25-20241125_091521-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
