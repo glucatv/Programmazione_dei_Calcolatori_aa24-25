@@ -206,7 +206,12 @@ Linguaggio C: tipi di dato `int` e `float`; operatori aritmetici; conversione (*
 
 ### Lezione 21 del 2024-11-25
 
-Soluzione degli esercizi. Gli array in C.
+Soluzione degli esercizi. Gli array in C e il costrutto `for`.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2021%20del%202024-11-25-20241125_091521-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
+### Lezione 22 del 2024-11-26
+
+Allocazione della memoria *statica* e *dinamica*; i puntatori e gli operatori `*` e `&`; le funzioni `malloc()`, `sizeof()` e `free()`; la costante `NULL`; aritmetica dei puntatori; definizione di array con allocazione dinamica della memoria; array come input ed output di funzioni.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2022%20del%202024-11-26-20241126_091534-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
