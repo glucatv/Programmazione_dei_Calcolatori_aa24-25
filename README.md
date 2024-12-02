@@ -215,3 +215,15 @@ Soluzione degli esercizi. Gli array in C e il costrutto `for`.
 Allocazione della memoria *statica* e *dinamica*; i puntatori, definizioni e gli operatori `*` e `&`; le funzioni `malloc()`, `sizeof()` e `free()`; la costante `NULL`; aritmetica dei puntatori; definizione di array con allocazione dinamica della memoria; array come input ed output di funzioni.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2022%20del%202024-11-26-20241126_091534-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 23 del 2024-11-29
+
+Come implementare in modo efficiente l'operazione di `append` su un array allocato dinamicamente: costo temporale e spaziale. La funzione di libreria `realloc()`. I costrutti `struct` e `typedef`. 
+
+- [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2023%20del%202024-11-29-20241129_091732-Registrazione%20della%20riunione.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)  
+
+### Lezione 24 del 2024-12-02
+
+Le stringhe in C: definizioni; il carattere `\0` di fine stringa; allocazione statica e dinamica; le funzioni `strlen()`, `strcmp()`, `strcpy()` della libreria `string` e loro implementazione e complessità.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2024%20del%202024-12-02-20241202_091508-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
