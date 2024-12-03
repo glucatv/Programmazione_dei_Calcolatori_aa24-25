@@ -227,3 +227,9 @@ Come implementare in modo efficiente l'operazione di `append` su un array alloca
 Le stringhe in C: definizioni; il carattere `\0` di fine stringa; allocazione statica e dinamica; le funzioni `strlen()`, `strcmp()`, `strcpy()` della libreria `string` e loro implementazione e complessità.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/sites/msteams_6c3e26/Documenti%20condivisi/Lezioni%202024-25/Recordings/Solo%20visualizzazione/Lezione%2024%20del%202024-12-02-20241202_091508-Registrazione%20della%20riunione%201.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+### Lezione 25 del 2024-12-03
+
+Implementazione di array dinamici in C con elementi di tipo disomogeneo: il tipo di dato `void` e l'utilizzo di puntatori a `void`; l'istruzione `switch`; l'operazione di `pop()` che elimina dalla struttura l'ultimo elemento; considerazione sull'utilizzo della memoria.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Edw2hcGBEldMvzXHIgLQiQQBhHgsT5XjB0ziKPo-7XaDxg?e=cARwzL)
