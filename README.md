@@ -233,3 +233,9 @@ Le stringhe in C: definizioni; il carattere `\0` di fine stringa; allocazione st
 Implementazione di array dinamici in C con elementi di tipo disomogeneo: il tipo di dato `void` e l'utilizzo di puntatori a `void`; l'istruzione `switch`; l'operazione di `pop()` che elimina dalla struttura l'ultimo elemento; considerazione sull'utilizzo della memoria.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Edw2hcGBEldMvzXHIgLQiQQBhHgsT5XjB0ziKPo-7XaDxg?e=cARwzL)
+
+### Lezione 26 del 2024-12-06
+
+Array dinamici: inserimento (e cancellazione per esercizio) di un elemento in posizione generica di una lista. Le funzioni `scanf()` e `sscanf()`; un modo per riconoscere i tipi.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/EYNgGQtyTUVLtt5gp8Ll4NMBJL0Rq2qKuGXaxWdI0fcWnA?e=YaMl6a)

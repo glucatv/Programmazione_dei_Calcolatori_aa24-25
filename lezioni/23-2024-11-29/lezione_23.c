@@ -3,6 +3,11 @@
 
 float *copia_array_di_float(float *, int);
 
+/*
+ * 
+ * Array dinamico
+ * 
+ * */
 struct lista_f {
     float *a;
     int c;  /* capacita'  */
