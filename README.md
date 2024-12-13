@@ -251,3 +251,9 @@ Esercizi in C e Python. La list comprehension in Python.
 Verso l'implementazione della della struttura dati *dizionario* partendo dagli array.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Ec2SgpFsjBZKqzjJbQlEhuIBTW0d_VJxtWxJNzH7oUX0sw?e=llDpad)
+
+### Lezione 29 del 2024-12-13
+
+La struttura dati **lista concatenata**: definizioni; operatori ed implementazione delle funzioni di ricerca ed inserimento in testa.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/EdKlAYriFjlKpgPXYiIHz6UBoy1wpo6dDEJKvgWZ3Vh4Fw?e=MRdxnl)
