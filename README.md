@@ -239,3 +239,15 @@ Implementazione di array dinamici in C con elementi di tipo disomogeneo: il tipo
 Array dinamici: inserimento (e cancellazione per esercizio) di un elemento in posizione generica di una lista. Le funzioni `scanf()` e `sscanf()`; un modo per riconoscere i tipi.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/EYNgGQtyTUVLtt5gp8Ll4NMBJL0Rq2qKuGXaxWdI0fcWnA?e=YaMl6a)
+
+### Lezione 27 del 2024-12-09
+
+Esercizi in C e Python. La list comprehension in Python.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/EWATB3MlLUdNgy-6BOEMjMAB4-ZuQ0AskAgHUCzZTSwylg?e=UDZOKj)
+
+### Lezione 28 del 2024-12-10
+
+Verso l'implementazione della della struttura dati *dizionario* partendo dagli array.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Ec2SgpFsjBZKqzjJbQlEhuIBTW0d_VJxtWxJNzH7oUX0sw?e=llDpad)
