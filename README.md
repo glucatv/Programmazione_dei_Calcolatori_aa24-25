@@ -257,3 +257,9 @@ Verso l'implementazione della della struttura dati *dizionario* partendo dagli a
 La struttura dati **lista concatenata**: definizioni; operatori ed implementazione delle funzioni di ricerca ed inserimento in testa.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/EdKlAYriFjlKpgPXYiIHz6UBoy1wpo6dDEJKvgWZ3Vh4Fw?e=MRdxnl)
+
+### Lezione 30 del 2024-12-16
+
+Liste concatenate: operazione di cancellazione.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/ETXX4nCQm59DomddxFozdgkB9yIH7jCKLTixinS8pDOn8Q?e=Ix2FaL)
