@@ -263,3 +263,9 @@ La struttura dati **lista concatenata**: definizioni; operatori ed implementazio
 Liste concatenate: operazione di cancellazione.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/ETXX4nCQm59DomddxFozdgkB9yIH7jCKLTixinS8pDOn8Q?e=Ix2FaL)
+
+### Lezione 31 del 2024-12-17
+
+Implementazione della struttura dati *dizionario* con array di liste concatenate.
+
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/ET9zfMB3b6tNiNpBDjTc4JsBNjsVl1a3HeJEldWzOypHoQ?e=lcTVNc)
