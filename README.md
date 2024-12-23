@@ -273,6 +273,6 @@ Implementazione della struttura dati *dizionario* con array di liste concatenate
 
 ### Lezione 32 del 2024-12-20
 
-Funzioni *hash*: funzione somma e DJB2. Esercizio risolto: implementazione della funzione di inserimento in posizione data di una lista concatenata. Gestione in C degli argomenti alla linea di comando.
+Funzioni *hash*: funzione somma e DJB2. Operatori bit a bit. Esercizio risolto: implementazione della funzione di inserimento in posizione data di una lista concatenata. Gestione in C degli argomenti alla linea di comando.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/EVB5zFV18OlJq4BeVSP5aBYBdrpRmbdeoOzX5le_e_hFeg?e=exMaF6)
