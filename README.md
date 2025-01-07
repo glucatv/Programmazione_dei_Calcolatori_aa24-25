@@ -283,3 +283,10 @@ Funzioni *hash*: funzione somma e DJB2. Operatori bit a bit. Esercizio risolto: 
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Ecqev6cKC7pNpXjzoOAwUXcBRCqYho6nUp0CIXKYXbrEVA?e=cwkM9a)
 
+### Lezione 34 del 2025-01-07
+
+Python: funzioni con numero variabile di parametri posizionali; l'operatore di *spacchettamento* `*`; moduli esterni; la libreria **matplotlib**; l'operatore `*` e la funzione `zip`; lettura e scrittura di file di testo (funzione `open()` e metodo `close()`).
+
+**Esercizio.** Scrivere un programma che, usando una opportuna funzione in matplotlib, disegni un diagramma a barre che mostri le occorrenze di tutte le lettere all'interno di un file di testo. Si utilizzi il file `promessi_sposi.txt`. 
+
+- [Video della lezione ... TODO]()
