@@ -289,4 +289,4 @@ Python: funzioni con numero variabile di parametri posizionali; l'operatore di *
 
 **Esercizio.** Scrivere un programma che, usando una opportuna funzione in matplotlib, disegni un diagramma a barre che mostri le occorrenze di tutte le lettere all'interno di un file di testo. Si utilizzi il file `promessi_sposi.txt`. 
 
-- [Video della lezione ... TODO]()
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Easp-sueevlNhjSNVfCEE1YBHanRSZjqL6bX5WPTvomNvw?e=NpaNhT)
