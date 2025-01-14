@@ -294,6 +294,12 @@ Python: funzioni con numero variabile di parametri posizionali; l'operatore di *
 
 ### Lezione 35 del 2025-01-10
 
-Esercizi svolti. L'istruzione `continue`.
+Esercizi svolti. L'istruzione `continue` in Python.
 
 - [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Eafb3S6tllhFpg920UGOOg4BgcZ3bWL5ewKBCA4ryPs3aw?e=0wDuWa)
+
+### Lezione 36 del 2025-01-14
+
+Esercizi svolti. Il tipo di dato `set` in Python.
+
+- [Video della lezione)(https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Ebf6srJu4r5OvcUFvTS1B4MBjCaSKbczl8pplOe2FkZ8MA?e=MpWUMw)

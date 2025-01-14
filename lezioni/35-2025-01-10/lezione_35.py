@@ -47,7 +47,7 @@ plt.bar(X, Y)
 # In[]
 
 # Scrivere un programma che prenda in input una stringa k e ritorni
-# tutti gli anagrammi di questa lista.
+# tutti gli anagrammi di questa stringa nella lingua italiana.
 #
 # Si utilizzi il file promessi_sposi.txt come fonte delle parole della
 # lingua italiana
