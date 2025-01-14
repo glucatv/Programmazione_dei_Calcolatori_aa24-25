@@ -302,4 +302,4 @@ Esercizi svolti. L'istruzione `continue` in Python.
 
 Esercizi svolti. Il tipo di dato `set` in Python.
 
-- [Video della lezione)(https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Ebf6srJu4r5OvcUFvTS1B4MBjCaSKbczl8pplOe2FkZ8MA?e=MpWUMw)
+- [Video della lezione](https://uniroma2.sharepoint.com/:v:/s/msteams_6c3e26/Ebf6srJu4r5OvcUFvTS1B4MBjCaSKbczl8pplOe2FkZ8MA?e=MpWUMw)
